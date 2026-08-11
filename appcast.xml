@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ExamInsight Updates</title>
+    <link>https://viettien117.github.io/ExamInsight_Windows_updates/appcast.xml</link>
+    <description>Auto-update feed for ExamInsight</description>
+    <language>vi</language>
+
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Tue, 11 Aug 2026 15:32:39 +0700</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <description><![CDATA[
+        <h3>Version 1.0.0</h3>
+        <p><b>Bản phát hành đầu tiên của ExamInsight</b> — phần mềm thống kê kết quả thi trắc nghiệm, hoàn thiện bộ ba <b>ExamMixer</b> (trộn đề) → <b>ExamScan</b> (chấm bài) → <b>ExamInsight</b> (phân tích kết quả).</p>
+        <ul>
+          <li><b>Nạp dữ liệu theo 5 bước</b>: file kết quả của ExamScan (bắt buộc), file đáp án của ExamMixer, danh sách sinh viên, thông tin bài kiểm tra, và thang điểm — bốn bước sau đều có thể bỏ qua.</li>
+          <li><b>Tổng quan</b>: điểm trung bình, tỷ lệ đạt, số bài xuất sắc, biểu đồ phân phối điểm và biểu đồ tròn tỷ lệ đạt.</li>
+          <li><b>Kết quả</b>: bảng điểm từng sinh viên, lọc theo Đạt / Chưa đạt / Cần xem lại và tìm kiếm theo mã số hoặc họ tên.</li>
+          <li><b>Phân tích câu hỏi</b>: chỉ ra câu nào cả lớp sai nhiều nhất. Dùng bản đồ câu hỏi mà ExamMixer nhúng sẵn trong file đáp án, nên gộp được nhiều mã đề mà không lệch số liệu.</li>
+          <li><b>Xuất báo cáo</b> ra Excel và PDF, có sẵn tên môn học, bài kiểm tra và lớp trên đầu báo cáo.</li>
+          <li><b>Thử ngay không cần dữ liệu thật</b>: nút "Thử với file mẫu" ở Bước 1 tự điền cả ba file lẫn thông tin bài kiểm tra. Bộ file mẫu nằm trong chương trình nên không cần mạng.</li>
+          <li><b>Giao diện Sáng / Tối</b> đổi được lúc đang chạy, và <b>song ngữ Việt / English</b>.</li>
+          <li><b>Tự động cập nhật</b>: kiểm tra bản mới mỗi ngày, tải và cài đè bằng một cú bấm. Bản cập nhật được ký số Ed25519, chương trình chỉ cài bản có chữ ký hợp lệ.</li>
+        </ul>
+        <p>Bản cài đặt là <b>self-contained</b> — máy đích không cần cài .NET. Yêu cầu Windows 10 (64-bit) trở lên.</p>
+      ]]></description>
+      <enclosure url="https://github.com/viettien117/ExamInsight_Windows_updates/releases/download/v1.0.0/ExamInsight-1.0.0-x64.msi" length="56833862" type="application/octet-stream" sparkle:version="1.0.0" sparkle:os="windows" sparkle:edSignature="WVYZqI3iKWd4vUxR+OhUUEKTxuCghIAfvmqpq06HjaUVVpbOzW2vt18ao/CihkUeSWoVQBIHf2ZyhdUPukXRBw==" />
+    </item>
+
+  </channel>
+</rss>
