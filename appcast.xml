@@ -7,6 +7,23 @@
     <language>vi</language>
 
     <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Wed, 12 Aug 2026 22:25:20 +0700</pubDate>
+      <sparkle:version>1.0.2</sparkle:version>
+      <description><![CDATA[
+        <h3>Version 1.0.2</h3>
+        <ul>
+          <li><b>Nút “Thử với file mẫu” nay có màu riêng và tách hẳn khỏi các nút thao tác.</b> Trước đây nó đứng sát nút “Bỏ chọn” của Bước 1 và trông y hệt — bấm nhầm là mất file đang chọn. Nay nút này mang sắc xanh cyan nhạt, nằm riêng một mình phía trên bên phải, <b>ngoài cả ba thẻ</b>, đúng với việc nó điền sẵn cả ba bước chứ không riêng bước nào.</li>
+          <li><b>Các nút trong Bước 1, 2 và 3 giãn cách nhau hơn</b> cho đỡ bấm nhầm.</li>
+          <li><b>Dòng trạng thái dưới đáy nay đổi theo ngôn ngữ.</b> Trước đây, kể từ thao tác đầu tiên, dòng này đứng im ở ngôn ngữ lúc đó và không bao giờ đổi nữa, dù cả giao diện đã chuyển sang tiếng khác. Các con số trong câu được giữ nguyên khi dịch lại.</li>
+          <li><b>Bỏ thẻ thông tin người dùng ở góc dưới thanh bên</b> — nó ghi cứng một cái tên, người dùng không sửa được và cũng không có tác dụng gì.</li>
+        </ul>
+        <p>Bộ ba đã đủ: <b>ExamMixer</b> trộn đề → <b>ExamScan</b> chấm bài → <b>ExamInsight</b> phân tích kết quả.</p>
+      ]]></description>
+      <enclosure url="https://github.com/viettien117/ExamInsight_Windows_updates/releases/download/v1.0.2/ExamInsight-1.0.2-x64.msi" length="56837965" type="application/octet-stream" sparkle:version="1.0.2" sparkle:os="windows" sparkle:edSignature="PhayPXz5Q2gA4EaqmKDEm1VAlBjJpuPJbV/+zruiv9rVEqqL9p8Ayc7xH+EsWGeq4q8zondLBeR0W8Gl/QmCAw==" />
+    </item>
+
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Tue, 11 Aug 2026 15:46:11 +0700</pubDate>
       <sparkle:version>1.0.1</sparkle:version>
