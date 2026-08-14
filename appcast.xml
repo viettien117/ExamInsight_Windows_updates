@@ -6,7 +6,15 @@
     <description>Auto-update feed for ExamInsight</description>
     <language>vi</language>
 
-    <item>
+    <item><title>Version 1.0.3</title><pubDate>Fri, 14 Aug 2026 14:10:17 +0700</pubDate><sparkle:version>1.0.3</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.3</h3>
+        <ul>
+          <li><b>Sửa một lỗi làm chương trình tắt ngang.</b> Trên máy chưa cài phần mềm thư (Outlook, Thunderbird…), bấm vào địa chỉ email trong mục Giới thiệu là ExamInsight <b>đóng luôn</b> — mất cả bộ kết quả vừa nạp và phần phân tích đang xem. Nay không những hết đóng, mà chương trình còn chép địa chỉ vào bộ nhớ tạm và chỉ bạn cách dán vào Gmail trên trình duyệt.</li>
+          <li><b>Thêm lưới an toàn cho mọi lỗi bất ngờ khác.</b> Trước đây bất kỳ lỗi nào không lường trước cũng làm chương trình tắt ngang, im lặng, không để lại dấu vết nào. Nay nếu cửa sổ đã mở, chương trình <b>vẫn chạy tiếp</b> để bạn kịp xuất báo cáo đang xem, đồng thời hiện thông báo và ghi chi tiết vào <code>%LOCALAPPDATA%\ExamInsight\crash.log</code> để gửi lại cho mình.</li>
+          <li><b>Nút liên hệ nay nói rõ nó làm gì.</b> Trước đây nhãn chính là địa chỉ email, không cho biết bấm vào thì ra sao. Nay nhãn là <b>“Liên hệ hỗ trợ”</b>, địa chỉ nằm ngay dòng dưới, và bấm vào là thư đã có sẵn tiêu đề, nội dung, phiên bản ExamInsight cùng phiên bản Windows — bạn chỉ cần viết điều muốn hỏi. Khối thông tin máy nằm cuối thư và <b>xoá được</b> nếu bạn không muốn gửi đi.</li>
+        </ul>
+        <p>Bộ ba đã đủ: <b>ExamMixer</b> trộn đề → <b>ExamScan</b> chấm bài → <b>ExamInsight</b> phân tích kết quả.</p>
+]]></description><enclosure url="https://github.com/viettien117/ExamInsight_Windows_updates/releases/download/v1.0.3/ExamInsight-1.0.3-x64.msi" length="56825677" type="application/octet-stream" sparkle:version="1.0.3" sparkle:os="windows" sparkle:edSignature="Pp4cvS+DJbLupXeFER9+mvL/6ThxwvJgDkVL4TXZmstycKetH8zpDgOl/lZMABQiurNHKBPI0hk3N4mLSlXkAA==" /></item><item>
       <title>Version 1.0.2</title>
       <pubDate>Wed, 12 Aug 2026 22:25:20 +0700</pubDate>
       <sparkle:version>1.0.2</sparkle:version>
