@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamInsight</description>
     <language>vi</language>
 
-    <item><title>Version 1.0.3</title><pubDate>Fri, 14 Aug 2026 14:10:17 +0700</pubDate><sparkle:version>1.0.3</sparkle:version><description><![CDATA[
+    <item><title>Version 1.1.0</title><pubDate>Fri, 04 Sep 2026 10:52:05 +0700</pubDate><sparkle:version>1.1.0</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.0</h3>
+        <p>Giao diện dựng lại trên nền mới để dùng chung với bản macOS — chức năng và cách dùng giữ nguyên; từ bản này ExamInsight có thêm bản cho máy Mac. Sửa biểu đồ tròn: lớp có ít em giỏi thì nét viền nuốt mất lát 'Xuất sắc'. Sửa chú thích trên mục bị khoá không bao giờ hiện, lỗi có từ 1.0.3. Sửa hộp thoại cập nhật hiện mã khoá thô thay vì chữ. Sửa vài nhãn trong báo cáo PDF/Excel bị mất dấu tiếng Việt. Sửa lỗi mọi hộp thoại không hiện được biểu tượng. Sửa thông báo sai 'hãy đóng Excel' khi thật ra là lỗi khác. Thanh điều hướng chuyển sang dọc bên trái, số thứ tự nằm trong chấm tròn.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_Windows_updates/releases/download/v1.1.0/ExamInsight-1.1.0-x64.msi" length="45043845" type="application/octet-stream" sparkle:version="1.1.0" sparkle:os="windows" sparkle:edSignature="lEUZakU4XUoeR9JtOuhzUjbVy7bZxt4LToybv0IxRQxC5Kz7Dl8/hXE5sabH4t3wdyW6UthG0DKeep1kHt+jDg==" /></item><item><title>Version 1.0.3</title><pubDate>Fri, 14 Aug 2026 14:10:17 +0700</pubDate><sparkle:version>1.0.3</sparkle:version><description><![CDATA[
         <h3>Version 1.0.3</h3>
         <ul>
           <li><b>Sửa một lỗi làm chương trình tắt ngang.</b> Trên máy chưa cài phần mềm thư (Outlook, Thunderbird…), bấm vào địa chỉ email trong mục Giới thiệu là ExamInsight <b>đóng luôn</b> — mất cả bộ kết quả vừa nạp và phần phân tích đang xem. Nay không những hết đóng, mà chương trình còn chép địa chỉ vào bộ nhớ tạm và chỉ bạn cách dán vào Gmail trên trình duyệt.</li>
