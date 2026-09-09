@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamInsight</description>
     <language>vi</language>
 
-    <item><title>Version 1.1.1</title><pubDate>Mon, 07 Sep 2026 11:28:17 +0700</pubDate><sparkle:version>1.1.1</sparkle:version><description><![CDATA[
+    <item><title>Version 1.1.2</title><pubDate>Wed, 09 Sep 2026 09:27:31 +0700</pubDate><sparkle:version>1.1.2</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.2</h3>
+        <p>Trang Giới thiệu nay có thêm ExamSheet — chương trình vẽ ra chính tờ phiếu trả lời mà ExamScan quét. Bộ Exam* nay đủ bốn bước và giới thiệu lẫn nhau: ExamSheet vẽ phiếu, ExamMixer trộn đề, ExamScan chấm bài, ExamInsight phân tích kết quả. Liên kết tải tự đổi theo nền tảng đang chạy, không còn luôn trỏ vào bản Windows.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_Windows_updates/releases/download/v1.1.2/ExamInsight-1.1.2-x64.msi" length="45043852" type="application/octet-stream" sparkle:version="1.1.2" sparkle:os="windows" sparkle:edSignature="ZoesiXU+vkBWM6cke5h7tg74/H3AwlYjReJDDsYcY6YWDKetwZDjNcS5srMR1z4VdkT2giDFqS/QZo0sAoxYBw==" /></item><item><title>Version 1.1.1</title><pubDate>Mon, 07 Sep 2026 11:28:17 +0700</pubDate><sparkle:version>1.1.1</sparkle:version><description><![CDATA[
         <h3>Version 1.1.1</h3>
         <p>Nút tải ExamMixer nay dẫn đúng bản dành cho máy Mac khi bạn đang dùng Mac — trước đây luôn dẫn về bản Windows. Sửa lỗi ứng dụng thỉnh thoảng báo có bản cập nhật mới trong khi đó chính là bản đang chạy.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_Windows_updates/releases/download/v1.1.1/ExamInsight-1.1.1-x64.msi" length="45043852" type="application/octet-stream" sparkle:version="1.1.1" sparkle:os="windows" sparkle:edSignature="xo6yFVCRlDVCGFRIezSHj8QrxeKSAiflmlpm5Jca+Bb4HAyC5UtKjbfN2AQEBxp0HjH9vS5722/86fcQN2Y/BA==" /></item><item><title>Version 1.1.0</title><pubDate>Fri, 04 Sep 2026 10:52:05 +0700</pubDate><sparkle:version>1.1.0</sparkle:version><description><![CDATA[
