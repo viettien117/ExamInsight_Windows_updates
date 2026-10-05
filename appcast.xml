@@ -6,7 +6,12 @@
     <description>Auto-update feed for ExamInsight</description>
     <language>vi</language>
 
-    <item><title>Version 1.1.3</title><pubDate>Fri, 25 Sep 2026 11:58:37 +0700</pubDate><sparkle:version>1.1.3</sparkle:version><description><![CDATA[
+    <item><title>Version 1.1.4</title><pubDate>Mon, 05 Oct 2026 10:59:15 +0700</pubDate><sparkle:version>1.1.4</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.4</h3>
+        <p>• File kết quả mẫu tiếng Bồ Đào Nha, Tây Ban Nha và Indonesia: ghi chú lỗi phiếu nay đúng ngôn ngữ như ExamScan ghi (trước đây là tiếng Anh).
+• Thêm nút ‹ › ở hai mép khung quảng cáo để xem quảng cáo trước hoặc sau, không phải chờ tự chuyển.
+• Ảnh quảng cáo chỉ tải lại khi có thay đổi — mở chương trình tốn ít dung lượng mạng hơn.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_Windows_updates/releases/download/v1.1.4/ExamInsight-1.1.4-x64.msi" length="45076620" type="application/octet-stream" sparkle:version="1.1.4" sparkle:os="windows" sparkle:edSignature="yZ8EW7CCY+8EiohKu4bAbqo0n0KRqX8jTsPxbRR/0pp3xUB1Ak2AhkyKT2bVfWu1wMfVBD8GL+ou5QEe1343BA==" /></item><item><title>Version 1.1.3</title><pubDate>Fri, 25 Sep 2026 11:58:37 +0700</pubDate><sparkle:version>1.1.3</sparkle:version><description><![CDATA[
         <h3>Version 1.1.3</h3>
         <p>Đọc được file kết quả của ExamScan trên điện thoại (Android, iPhone).
 
