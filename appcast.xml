@@ -6,7 +6,12 @@
     <description>Auto-update feed for ExamInsight</description>
     <language>vi</language>
 
-    <item><title>Version 1.1.4</title><pubDate>Mon, 05 Oct 2026 10:59:15 +0700</pubDate><sparkle:version>1.1.4</sparkle:version><description><![CDATA[
+    <item><title>Version 1.1.5</title><pubDate>Thu, 15 Oct 2026 10:54:03 +0700</pubDate><sparkle:version>1.1.5</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.5</h3>
+        <p>• Đọc đúng file kết quả mới của ExamScan (cột số câu của đề, điểm thang 10, tỷ lệ % đúng ở đầu bảng).
+• File của ExamScan trên điện thoại: điểm tính theo số câu của ĐÁP ÁN, không theo số câu in trên phiếu — phiếu 60 câu dùng cho đề 45 câu nay ra điểm đúng.
+• File kết quả mẫu tiếng Bồ Đào Nha, Tây Ban Nha, Indonesia: ghi chú lỗi của phiếu 002 nay đúng ngôn ngữ.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_Windows_updates/releases/download/v1.1.5/ExamInsight-1.1.5-x64.msi" length="45088908" type="application/octet-stream" sparkle:version="1.1.5" sparkle:os="windows" sparkle:edSignature="SxsiL7R8z/ZBgfzk9DzoRsGLU5ULZKUOkG2RLToE+X1p5iSGXJLhoIJNjM+qwAh2nqK8O6bKtBsLhT/AUP8tDw==" /></item><item><title>Version 1.1.4</title><pubDate>Mon, 05 Oct 2026 10:59:15 +0700</pubDate><sparkle:version>1.1.4</sparkle:version><description><![CDATA[
         <h3>Version 1.1.4</h3>
         <p>• File kết quả mẫu tiếng Bồ Đào Nha, Tây Ban Nha và Indonesia: ghi chú lỗi phiếu nay đúng ngôn ngữ như ExamScan ghi (trước đây là tiếng Anh).
 • Thêm nút ‹ › ở hai mép khung quảng cáo để xem quảng cáo trước hoặc sau, không phải chờ tự chuyển.
